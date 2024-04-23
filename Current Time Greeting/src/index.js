@@ -10,7 +10,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-let currentDate = new Date(2019, 1, 2, 19);
+let currentDate = new Date();
 let hours = currentDate.getHours();
 let message = "";
 let color = "";
